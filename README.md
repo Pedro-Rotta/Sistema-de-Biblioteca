@@ -7,3 +7,5 @@ Como utilizar:
 Funcionamento:
  Ao executar o programa, uma pasta chamada "arquivos.dat" será criada automaticamente no mesmo diretório onde o programa está localizado.
  Dentro dessa pasta, serão armazenados todos os arquivos contendo os dados inseridos durante a execução.
+ Durante a execução do programa, pode ser perceptível que, ao tentar acessar os relatórios, a opção não seja permitida. Isso ocorre porque ainda não há dados suficientes.
+ O relatório só poderá ser gerado quando houver pelo menos uma informação registrada em cada um dos arquivos gerados dentro da pasta "arquivos.dat". Essa exigência garante uma melhor     experiência na visualização dos dados dentro do programa.
